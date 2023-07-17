@@ -1,6 +1,6 @@
 ## PML project with Google Colab
 
-This machine learning project was done in google colab, and all folders and datasets (images) are present in google drive
+This machine learning project was done in google colab, and all folders and datasets are present in google drive
 
 ### Link to the drive folder
 
